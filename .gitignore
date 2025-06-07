@@ -135,7 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.test_utils_env
+.test_utils_venv
 
 # Spyder project settings
 .spyderproject
