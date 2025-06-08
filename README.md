@@ -38,27 +38,14 @@ text_utils/
     └── main.py
 ```
 
-## Usage
+## Demo Script
 
-```python
-from text_utils import TextUtils
-
-sample_text = "Anita lava la tina"
-
-# Count words
-word_count = TextUtils.count_words(sample_text)  # Returns 4
-
-# Count characters
-char_count = TextUtils.count_characters(sample_text)  # Returns 18
-
-# Reverse text
-reversed_text = TextUtils.reverse_text(sample_text)  # Returns "anit al aval atinA"
-
-# Remove punctuation
-clean_text = TextUtils.remove_punctuation("Hola, ¿qué tal?")  # Returns "Hola qué tal"
-
-# Check palindrome
-is_pal = TextUtils.is_palindrome(sample_text)  # Returns True
+"""
+Demo script for the TextUtils library.
+You can run the demo directly from the root of the project with.
+"""
+```bash
+python scripts/main.py
 ```
 
 ## Development
