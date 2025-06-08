@@ -25,7 +25,7 @@ print(f"Is palindrome?: {'Yes' if TextUtils.is_palindrome(txt2) else 'No'}")
 print("-" * 30)
 
 # Example 3
-txt3 = "¿Cómo estas hoy?"
+txt3 = "¿Cómo estás hoy?"
 print(f"Text: {txt3}")
 print(f"Word count: {TextUtils.count_words(txt3)}")
 print(f"Character count: {TextUtils.count_characters(txt3)}")

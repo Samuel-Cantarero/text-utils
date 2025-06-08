@@ -54,7 +54,6 @@ python scripts/main.py
 
    ```bash
    git clone https://github.com/Samuel-Cantarero/text_utils.git
-   cd text_utils
    ```
 2. Create a virtual environment:
 
