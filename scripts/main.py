@@ -14,7 +14,7 @@ print(f"Without punctuation: {TextUtils.remove_punctuation(txt1)}")
 print(f"Is palindrome?: {'Yes' if TextUtils.is_palindrome(txt1) else 'No'}")
 print("-" * 30)
 
-# Example 2 
+#Example 2 
 txt2 = "Anita atina"
 print(f"Text: {txt2}")
 print(f"Word count: {TextUtils.count_words(txt2)}")
