@@ -5,7 +5,7 @@ A Python library providing various text processing utilities following best prog
 ## Installation
 
 ```bash
-pip install text_utils
+pip install -e .
 ```
 
 ## Features
