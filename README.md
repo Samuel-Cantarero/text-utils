@@ -5,6 +5,10 @@ A Python library providing various text processing utilities following best prog
 ## Installation
 
 ```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Install the package in editable mode
 pip install -e .
 ```
 
@@ -42,7 +46,7 @@ text_utils/
 
 """
 Demo script for the TextUtils library.
-You can run the demo directly from the root of the project with.
+You can run the demo directly from the root of the project with:
 """
 ```bash
 python scripts/main.py
