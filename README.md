@@ -32,6 +32,7 @@ text_utils/
 ├── setup.py
 ├── requirements.txt
 ├── README.md
+├── LICENSE
 ├── text_utils_program/
 │   ├── __init__.py
 │   └── text_utils_class.py
